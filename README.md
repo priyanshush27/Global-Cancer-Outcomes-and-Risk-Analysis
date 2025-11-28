@@ -67,4 +67,7 @@ The dataset provides a **360-degree view of cancer patient profiles**, including
 This project demonstrates how data analytics can drive healthcare insights by combining statistical rigor, predictive modeling, and visualization.
 It showcases the ability to translate complex datasets into actionable findings that can inform policy, resource allocation, and clinical decision-making.
 
-
+👨‍💻 Contact 
+ Priyanshu 
+ LinkedIn
+ Github
